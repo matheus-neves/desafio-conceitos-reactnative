@@ -37,7 +37,8 @@ App nativo que irá consumir a [api](https://github.com/matheus-neves/desafio-co
 3. Instale as dependencias: `yarn`
 4. Rode a aplicação: `yarn ios` || `yarn android`
 
-`Se for rodar no IOS, antes de executar o comando *yarn ios*, acesse o diretórios *ios* e rode o comando *pod install*`
+📢*Importante*: *Se for rodar no ios, antes de executar o comando `yarn ios`, acesse o diretório `./ios` e rode o comando `pod install`*.
+
 
 ## :memo: Licença
 
